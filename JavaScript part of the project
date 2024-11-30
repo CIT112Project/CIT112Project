@@ -1,0 +1,67 @@
+By Hasan Ali Hasan / 202210261. 
+
+<!doctype html>
+<html>
+    <head>
+        <title>JavaScript Calculator</title>
+        <meta charset="utf-16">
+        <style>
+            /*body{background: url(OIP.jfif);}*/
+            body{background: rgb(107, 106, 106);}
+            .container{background: gray;}
+            .container{width: 460px;}
+            .container{margin:auto;}
+            .container{border: 2px solid black;}
+            .container h1, p{padding: 2%;}
+            input{margin-left: 2%;}
+            span{margin-left: 1%;}
+            input{border: 2px solid black;}
+            input {margin-bottom: 1%;}
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Try the Calculator</h1>
+            <p>In our website, we provided this calculator for you to use it and try how calculators work.</p>
+       <span> Enter Value 1</span><br><br>
+        <input type="text" id="a"><br><br>
+        <span>Enter Value 2</span><br><br>
+        <input type="text" id="b"><br><br>
+        <input type="button" id="p" value="+" onclick="p()">
+        <input type="button" id="m" value="-" onclick="m()">
+        <input type="button" id="mu" value="*" onclick="mu()">
+        <input type="button" id="d" value="/" onclick="d()">
+        <br><br>
+        <input type="text" id="r">
+    </div>
+    </body>
+    <script>
+       /* function c(){
+            var x= doctument.getElementById("a").value;
+            var y= document.getElementById("b").value;
+            document.getElementById("r").value= x+y;  
+        } */
+        function p(){
+            var x= parseInt(document.getElementById("a").value);
+            var y= parseInt(document.getElementById("b").value);
+            document.getElementById("r").value= x+y; 
+                    }
+                    function m(){
+            var x= document.getElementById("a").value;
+            var y= document.getElementById("b").value;
+            document.getElementById("r").value= x-y;
+                     }
+                     function mu()
+            {
+            var x= document.getElementById("a").value;
+            var y= document.getElementById("b").value;
+            document.getElementById("r").value= x*y;
+                    }  
+                    function d()
+                    {   
+            var x= document.getElementById("a").value;
+            var y= document.getElementById("b").value;
+            document.getElementById("r").value= x/y; 
+                    }
+    </script>
+</html>

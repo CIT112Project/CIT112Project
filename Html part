@@ -1,0 +1,51 @@
+by rayan jalal alsaaed /202210591
+
+<body>
+ 
+<header>
+  <h1>Different Types of Calculators</h1>
+  <p>An overview of various calculators and their uses.</p>
+</header>
+ 
+<article>
+  <h2>1. Basic Calculators</h2>
+  <p>Basic calculators perform simple arithmetic operations like addition, subtraction, multiplication, and division. They are ideal for everyday calculations and quick math tasks.</p>
+  <p>Common Uses: Budgeting, shopping, and simple math problems.</p>
+ 
+  <h2>2. Scientific Calculators</h2>
+  <p>Scientific calculators offer advanced functions, such as trigonometric, logarithmic, and exponential operations. They are designed for higher-level math, including algebra, calculus, and engineering problems.</p>
+  <p>Common Uses: Students, engineers, and scientists.</p>
+ 
+  <h2>3. Graphing Calculators</h2>
+  <p>Graphing calculators can plot graphs, solve equations, and perform advanced functions. They often have a screen that displays graphs and data visually.</p>
+  <p>Common Uses: Higher education, particularly in mathematics and science fields.</p>
+ 
+  <h2>4. Financial Calculators</h2>
+  <p>Financial calculators are specialized for tasks like calculating interest, loan payments, and investment growth. They are commonly used in finance and accounting.</p>
+  <p>Common Uses: Financial planning, loans, and investment analysis.</p>
+ 
+  <h2>5. Online & Web-Based Calculators</h2>
+  <p>Online calculators are available through websites or mobile apps. They range from basic to advanced calculators, offering accessibility from any device with internet access.</p>
+  <p>Common Uses: Quick calculations on the go, accessibility for all users.</p>
+</article>
+ 
+<aside>
+  <p>Additional information and tools can be found on online calculator platforms, such as:</p>
+  <h4>Here, we provided a simple calculator for the visitors of this website. By
+    clicking the link, you will jump to try the calculator.
+ 
+  <nav>
+    <p><a href="javascript project 1.html">Try a simple calculator</a></p>
+</nav>
+</h4>
+</aside>
+
+<footer>
+  <p>Team:</p>
+  <p>1. Hasan Ali Hasan / 202210261</p>
+  <p>2. Rayan Jalal / 202210591</p>
+  <p>3. Rayan Alharbi / 202210134</p>
+</footer>
+ 
+</body>
+ 

@@ -1,0 +1,27 @@
+By Rayan AlHarbi / 202210134
+
+<style>
+         * {margin: 0; padding: 0;}
+        body {font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f7f7f7;
+            margin: 0; }
+        header {background-color: #4a90e2;
+            color: white;
+            text-align: center;
+            padding: 20px 10px;
+            border-bottom: 3px solid #377bb5; }
+        
+    article {padding: 20px;}
+    h2 {color: black;}
+    footer {text-align: left;
+    padding: 10px;
+    background-color: #4a90e2;
+    color: white;
+    padding: 10px;
+    border-top: 3px solid #377bb5;}
+    nav p{margin: 2px;
+        background: beige;
+        padding: 2px;}
+        aside {padding-left: 1%;}
+  </style>
